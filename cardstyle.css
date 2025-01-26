@@ -1,0 +1,46 @@
+body {
+    background-color: #ffffff;
+	font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.box {
+    background-color: #e39898;
+    border-radius: 10px;
+    padding: 30px;
+    width: 60%;
+    box-shadow: 0 4px 8px rgb(75, 75, 75);
+    text-align: center;
+}
+
+h1 {
+    color: #fc401f;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+p {
+	color: black;
+    font-size: 18px;
+}
+
+p.myname {
+    font-weight: bold;
+    color: #ffff00;
+    font-size: 28px;
+}
+
+span.hisname {
+    font-weight: bold;
+    color: gold;
+    font-size: 26px;
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
